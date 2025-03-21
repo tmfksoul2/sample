@@ -1,6 +1,5 @@
 import os
-print(f"現在のファイル: {__file__}")
-print(f"作業ディレクトリ: {os.getcwd()}")
+import pandas
 a = 8
 b = 2
 
